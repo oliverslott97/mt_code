@@ -1,0 +1,45 @@
+#### font ####
+
+font.family: Serif
+
+#### axis ####
+
+axes.spines.left: False
+axes.spines.bottom: True
+axes.spines.top: False
+axes.spines.right: False
+
+ytick.minor.visible: True
+xtick.minor.visible: False
+axes.titlesize: 25
+axes.titlepad: 50
+axes.axisbelow: True
+
+ytick.color: 474A5F
+xtick.color: 474A5F
+axes.labelcolor: 202227
+xtick.labelsize: medium
+ytick.labelsize: medium
+
+axes.grid.axis: y
+axes.grid: True
+grid.color: BEC1D2
+grid.linewidth: 0.6
+grid.alpha: 1.0
+
+#### shape ####
+
+figure.figsize: 8.27, 4.8
+
+
+#### legend ####
+
+legend.loc: upper center
+
+
+#### text ####
+text.color: 202227
+
+
+#### colors ####
+axes.prop_cycle: cycler('color', ['5fc3cf', '00395D', 'ebf7f7'])
